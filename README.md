@@ -1,5 +1,9 @@
 ![Python](https://github.com/sourceduty/Python/assets/123030236/6241a66e-dc5b-4052-9c79-c3fb47e263fb)
 
+> Python programming language.
+
+#
+
 Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and released in 1991. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. The language's design philosophy emphasizes code readability with its notable use of significant whitespace.
 
 #
