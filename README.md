@@ -45,6 +45,10 @@ However, modular coding does introduce additional complexity. Developers need to
 In conclusion, singular file programming is ideal for small, simple projects where the ease of keeping everything in one place outweighs the drawbacks. In contrast, modular Python coding, with its focus on organization and scalability, is better suited for more extensive and complex projects that require a structured approach to development.
 
 #
+
+![Python Line Drawings](https://github.com/user-attachments/assets/d4a615c5-f5fd-458b-8765-c46511c4b275)
+
+#
 ### Related Links
 
 [Python Simulator](https://chat.openai.com/g/g-NLUSBfccY-python-simulator)
