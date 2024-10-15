@@ -1,4 +1,4 @@
-![Python](https://github.com/sourceduty/Python/assets/123030236/6241a66e-dc5b-4052-9c79-c3fb47e263fb)
+![Python](https://github.com/user-attachments/assets/a736b088-592a-4b21-ad97-d00f5c113ce9)
 
 > Python programming language.
 
