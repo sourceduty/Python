@@ -55,6 +55,8 @@ Lastly, the use of inefficient data structures and memory management can drag do
 [Programming Language Writer](https://github.com/sourceduty/Programming_Language_Writer)
 <br>
 [Matplotlib](https://github.com/sourceduty/Matplotlib)
+<br>
+[Python Utilies](https://github.com/sourceduty/Python_Utilities)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
