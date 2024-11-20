@@ -1,0 +1,34 @@
+my_library/
+├── my_library/                # Main library source code package
+│   ├── __init__.py            # Marks directory as a package, can include top-level imports
+│   ├── core.py                # Core functionality of the library
+│   ├── utils.py               # Helper utilities
+│   ├── exceptions.py          # Custom exceptions for the library
+│   ├── config.py              # Configuration constants and settings
+│   └── submodule/             # Example of an additional module
+│       ├── __init__.py
+│       ├── submodule_core.py  # Specific functionality for the submodule
+│       └── helpers.py         # Additional helper functions for the submodule
+│
+├── tests/                     # Unit and integration tests
+│   ├── __init__.py
+│   ├── test_core.py           # Tests for core functionality
+│   ├── test_utils.py          # Tests for utility functions
+│   └── test_submodule.py      # Tests for the submodule
+│
+├── docs/                      # Documentation
+│   ├── index.md               # Main documentation file (Markdown format)
+│   ├── usage.md               # Example usage guide
+│   └── api_reference.md       # API reference documentation
+│
+├── examples/                  # Example scripts for users of the library
+│   ├── basic_usage.py
+│   └── advanced_usage.py
+│
+├── .gitignore                 # Files and directories to ignore in Git
+├── setup.py                   # Installation and package metadata script
+├── pyproject.toml             # PEP 518 configuration for build tools (setuptools, poetry, etc.)
+├── requirements.txt           # List of required dependencies
+├── README.md                  # Project overview and usage guide
+├── LICENSE                    # License file for the project
+└── CHANGELOG.md               # Version history and changes
