@@ -68,6 +68,8 @@ When developing a Python library or module, it's important to follow best practi
 [Matplotlib](https://github.com/sourceduty/Matplotlib)
 <br>
 [Python Utilities](https://github.com/sourceduty/Python_Utilities)
+<br>
+[Terminal](https://github.com/sourceduty/Terminal)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
