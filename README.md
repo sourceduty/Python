@@ -71,6 +71,15 @@ However, modular coding does introduce additional complexity. Developers need to
 In conclusion, singular file programming is ideal for small, simple projects where the ease of keeping everything in one place outweighs the drawbacks. In contrast, modular Python coding, with its focus on organization and scalability, is better suited for more extensive and complex projects that require a structured approach to development.
 
 #
+### Round Windows
+
+![Round_Python_Window](https://github.com/user-attachments/assets/71122e39-7476-467e-a0d9-9a656ca3684f)
+
+Round Python windows often appear pixelated because of the way Windows handles rendering with default libraries like Tkinter. These libraries rely on basic bitmap graphics where curved edges are approximated using a grid of pixels, leading to jagged or pixelated edges when magnified. Additionally, the anti-aliasing techniques in such frameworks are limited compared to modern rendering engines, which can make the edges of circular elements less smooth. This effect is exacerbated on displays with low pixel density.
+
+In contrast, round JavaScript windows or shapes in web environments often appear smoother because they leverage modern rendering techniques like vector graphics and hardware acceleration provided by browsers. Using CSS properties like border-radius or SVG elements, these environments can create smooth, scalable curves that adapt seamlessly to high-resolution displays. Browsers also employ advanced anti-aliasing methods, ensuring a polished appearance.
+
+#
 ### Slow Python Codes
 
 Several factors can slow down a Python program, primarily due to the interpreted nature of the language and the way it handles memory. One common source of slowdown is inefficient loops and recursive calls. Python is not optimized for heavy looping compared to languages like C, and using a high number of iterations in a loop without optimization can significantly impact performance. Nested loops, where one loop is placed inside another, are especially problematic. Additionally, recursive function calls, particularly deep recursion, can consume a large amount of memory and lead to a slower execution due to Python’s default recursion limit. To mitigate this, using list comprehensions, generators, or optimizing algorithms to reduce the number of iterations can enhance performance.
